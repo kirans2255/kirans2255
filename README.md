@@ -1,8 +1,10 @@
 <!-- Computer-themed animation at the top -->
 
+<!-- Computer-themed animation at the top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26gssH1O5E2IKTjN6/giphy.gif" width="400" alt="Computer Animation" />
+  <img src="https://media.giphy.com/media/26tPplCmc8zZrpqco/giphy.gif" width="400" alt="Computer Animation" />
 </p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kiran+S!;" />
