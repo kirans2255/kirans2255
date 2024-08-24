@@ -2,7 +2,7 @@
 
 <!-- Computer-themed animation from Imgur -->
 <p align="center">
-  <img src="https://i.imgur.com/somegif.gif" width="400" alt="Computer Animation" />
+  <img src="https://i.imgur.com/aO2sE56.gif" width="400" alt="Computer Animation" />
 </p>
 
 
