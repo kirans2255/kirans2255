@@ -1,3 +1,8 @@
+<!-- Computer-themed animation at the top -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqF1Ek0DFxn9l9u/giphy.gif" width="400" alt="Computer Animation" />
+</p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kiran+S!;" />
 </h1>
@@ -34,13 +39,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
-</div>
-
-<br/>
-
-<!-- Add a computer-themed animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0GqF1Ek0DFxn9l9u/giphy.gif" width="400" alt="Computer Animation" />
 </div>
 
 <br/>
