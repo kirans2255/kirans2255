@@ -1,10 +1,8 @@
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kiran+S!;" />
 </h1>
 
-<h3 align="center">A passionate Mern Stack developer , I'm excited to share my world of web and design with you! Whether you're a potential collaborator, a fellow developer, or just curious about the digital realm, I'm glad you're here</h3>
+<h3 align="center">A passionate MERN Stack developer, I'm excited to share my world of web and design with you! Whether you're a potential collaborator, a fellow developer, or just curious about the digital realm, I'm glad you're here</h3>
 
 <br/>
 
@@ -29,8 +27,8 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -40,4 +38,17 @@
 
 <br/>
 
+<!-- Add a colorful animated GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btN3sFYh2m8cb88/giphy.gif" width="300" />
+</div>
 
+<br/>
+
+<!-- Add a mini video or animation -->
+<div align="center">
+  <video width="300" height="300" controls>
+    <source src="https://www.example.com/your-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
