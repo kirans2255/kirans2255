@@ -1,8 +1,8 @@
 <!-- Computer-themed animation at the top -->
 
-<!-- Computer-themed animation at the top -->
+<!-- Computer-themed animation from Imgur -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplCmc8zZrpqco/giphy.gif" width="400" alt="Computer Animation" />
+  <img src="https://i.imgur.com/somegif.gif" width="400" alt="Computer Animation" />
 </p>
 
 
