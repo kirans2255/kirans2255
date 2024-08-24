@@ -38,17 +38,9 @@
 
 <br/>
 
-<!-- Add a colorful animated GIF -->
+<!-- Add a computer-themed animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btN3sFYh2m8cb88/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xT0GqF1Ek0DFxn9l9u/giphy.gif" width="400" alt="Computer Animation" />
 </div>
 
 <br/>
-
-<!-- Add a mini video or animation -->
-<div align="center">
-  <video width="300" height="300" controls>
-    <source src="https://www.example.com/your-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
